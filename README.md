@@ -2,7 +2,7 @@
 
 ## Requirements
 
-We recommend using `anaconda` or `miniconda` for python. Our code has been tested with `python=3.8` on linux.
+We recommend using `anaconda` or `miniconda` for python. Our code has been tested with `python=3.12.2` on linux.
 
 Create a conda environment from the yml file and activate it.
 ```
