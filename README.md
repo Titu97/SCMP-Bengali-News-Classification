@@ -6,6 +6,6 @@ We recommend using `anaconda` or `miniconda` for python. Our code has been teste
 
 Create a conda environment from the yml file and activate it.
 ```
-conda env create -f saint_environment.yml
+conda env create -f env.yml
 conda activate scmp
 ```
