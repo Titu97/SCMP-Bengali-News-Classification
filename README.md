@@ -2,9 +2,10 @@
 
 ## Requirements
 
-We recommend using `anaconda` or `miniconda` for python. Our code has been tested with `python=3.12.2` on linux.
+We recommend using Anaconda to manage dependencies. The code has been tested with Python 3.12.2 on NVIDIA Tesla A100 GPUs (80GB memory).
 
-Create a conda environment from the yml file and activate it.
+To set up the environment, create and activate a Conda environment using the following commands:
+
 ```
 conda env create -f env.yml
 conda activate scmp
